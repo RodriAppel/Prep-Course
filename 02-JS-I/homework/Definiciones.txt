@@ -1,0 +1,5 @@
+Variables: es el valor que le damos a un conjunto caracteres;
+Strings: es un texto que va entre comillas;
+Funciones (argumentos, return): es una acción programada. Los argumentos son el contenido de la función y el return es el resultado que te entrega la función.
+Declaraciones if: Es una función condicional donde el return varía en base a una premisa.
+Valores booleanos (true, false): Sirve para cuando una pregunta tiene solo 2 posibles respuestas verdadera o falsa.
