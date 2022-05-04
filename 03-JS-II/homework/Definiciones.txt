@@ -1,7 +1,0 @@
-For es un bucle que se usa para recorrer intervalos evaluando expresiones hasta que encuentra lo que le indicamos que busque.
-
-&& es AND y sirve para cuando se necesita que más de una condición se cumpla a la vez
-
-|| es OR y sirve para cuando se necesita que se cumpla una condición u otra pero no ambas.
-
-! es NOT y sirve para indicar lo opuesto a lo escrito.
